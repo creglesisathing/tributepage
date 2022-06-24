@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="styles.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tribute to Conan O'Brien</title>
+</head>
+<body>
+	<main id="main">
+		<div id="heading" class="center">
+		<h1 id="title" class="center">Conan O'Brien</h1>
+		<p class="font"><i>The man who really loves comedy</i></p>
+		</div>
+		<div id="img-div">
+			<img class="center" id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Conan_O%27Brien_by_Gage_Skidmore_2.jpg/800px-Conan_O%27Brien_by_Gage_Skidmore_2.jpg" alt="Conan O'Brien at Comic-Con">
+			<div class="center" id="img-caption"><br>
+			<p id="img-caption" class="font">Conan O'Brien speaking at the 2019 San Diego Comic-Con International in San Diego, California.</p><br>
+			</div>
+		</div>
+
+		<div id="tribute-info" class="center">
+			<h2 class="font">Conan O'Brien's life:</h2>
+			<ul class="font" style="text-align: justify;">
+				<br>
+				<li><b>1963</b> - O'Brien was born on April 18, 1963, in Brookline, Massachusetts. His father, Thomas Francis O'Brien (b. 1929), is a physician and professor of medicine at Harvard Medical School where he specializes in epidemiology. His mother, Ruth O'Brien (née Reardon; b. 1931), is a retired attorney and former partner at the Boston firm Ropes & Gray.O'Brien has three brothers and two sisters.</li>
+				<br>
+				<li><b>1981</b> - After graduating as valedictorian in 1981, O'Brien entered Harvard University. He lived in Holworthy Hall during his first year with future businessman Luis Ubiñas and two other roommates, and in Mather House during his three upper-class years. He majored in History & Literature, and graduated magna cum laude with a Bachelor of Arts degree in 1985.</li>
+				<br>
+				<li><b>1986</b> - After graduating from Harvard, O'Brien moved to Los Angeles to join the writing staff of HBO's sketch comedy series Not Necessarily the News.</li>
+				<br>
+				<li><b>1988</b> - In January 1988, Saturday Night Live (SNL) executive producer Lorne Michaels hired O'Brien as a writer. During his three years on SNL, he wrote such recurring sketches as "Mr. Short-Term memory" and "The Girl Watchers"; the latter was first performed by Tom Hanks and Jon Lovitz.</li>
+				<br>
+				<li><b>1991</b> - In 1991, O'Brien quit Saturday Night Live, citing burnout and his recent engagement to be married.</li>
+				<br>
+				<li><b>1991</b> - From 1991 to 1993, O'Brien was a writer and producer for The Simpsons. O'Brien wrote some of the series' most acclaimed episodes: "Marge vs. the Monorail" and "Homer Goes to College".</li>
+				<br>
+				<li><b>1993</b> - O'Brien was picked as the new host of Late Night on April 26, 1993.</li>
+				<br>
+				<li><b>1993</b> - Late Night with Conan O'Brien, originating from Studio 6A at 30 Rockefeller Plaza in New York City, premiered on September 13, 1993, to unfavorable reviews from contemporary critics.</li>
+				<br>
+				<li><b>2009</b> - On February 20, 2009, NBC aired the last episode of Late Night with Conan O'Brien.</li>
+				<br>
+				<li><b>2009</b> - On June 1, 2009, Will Ferrell became Conan's first Tonight Show guest on the couch and Pearl Jam appeared as his first musical guest.<br>
+					As part of a new contract negotiated with NBC in 2004, the network decided that O'Brien would take over The Tonight Show from Jay Leno in 2009.</li>
+				<br>
+				<li><b>2010</b> - Conan left the Tonight Show after a major controversy with NBC and performed a major USA tour following. The day his live tour began, O'Brien announced that he would host a new show on cable station TBS. The show, Conan, debuted on November 8, 2010 and aired Monday through Thursday at 11:00 pm ET/10:00 pm CT.</li>
+				<br>
+				<li><b>2018</b> - In 2018, O'Brien's production company, Team Coco, partnered with Earwolf to launch his own weekly podcast, Conan O'Brien Needs a Friend.</li>
+				<br>
+			</ul>
+		</div>
+
+		<div class="center">
+			<p class="font"><i>“All I ask is one thing, and I’m asking this particularly of young people: please don’t be cynical. I hate cynicism, for the record, it’s my least favorite quality and it doesn’t lead anywhere. Nobody in life gets exactly what they thought they were going to get. But if you work really hard and you’re kind, amazing things will happen."</i>
+				― Conan O'Brien</p>
+				<br>
+			<h3 class="font">You can learn more about this incredible man on
+				<a href="https://en.wikipedia.org/wiki/Conan_O%27Brien" id="tribute-link" target="_blank">
+				Wikipedia.</a>
+			</h3>
+		</div>
+
+	</main>
+</body>
+</html>
