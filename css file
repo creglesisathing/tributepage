@@ -1,0 +1,11 @@
+.center {
+    max-width: 100%;
+    padding: center;
+    height: auto;
+    display: block;
+  }
+
+#title {
+    font-size: 400%;
+    width: 60vmax;
+  }
